@@ -1,2 +1,2 @@
-stylish-scrollbar
-=================
+Stylish Scrollbar
+====
